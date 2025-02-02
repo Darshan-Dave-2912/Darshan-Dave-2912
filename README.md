@@ -1,19 +1,11 @@
 <h1 align="center">Hi 👋, I'm Darshan Dave</h1>
 <h3 align="center">A passionate flutter developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://algorithmman.com/wp-content/uploads/2024/07/Future-Trends-in-Object-Oriented-Programming.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshan-dave-2912&label=Profile%20views&color=0e75b6&style=flat" alt="darshan-dave-2912" /> </p>
 
 - 🌱 I’m currently learning **Flutter, MERN Stack Developments**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Darshan-Dave-2912](https://github.com/Darshan-Dave-2912)
-
-- 💬 Ask me about **Flutter, Mongodb, Expressjs, Reactjs, Nodejs etc.**
-
-- 📫 How to reach me **darshandave637@gmail.com**
-
-- ⚡ Fun fact **I am funny🤓**
+- 💬 Ask me about **C language, Dart, Flutter & MERN Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
