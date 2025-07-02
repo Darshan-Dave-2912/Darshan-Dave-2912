@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter, MERN Stack Developments**
 
-- 💬 Ask me about **C language, Dart, Flutter & MERN Development**
+- 💬 Ask me about **C language, java, Dart, Flutter  Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
