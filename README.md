@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshan-dave-2912&label=Profile%20views&color=0e75b6&style=flat" alt="darshan-dave-2912" /> </p>
 
-- 🌱 I’m currently learning **Flutter, MERN Stack Developments**
+- 🌱 I’m currently learning **Flutter, .NETcore MVC Developments**
 
 - 💬 Ask me about **C language, java, Dart, Flutter  Development**
 
